@@ -1,0 +1,19 @@
+.custom-navbar {
+    padding: 1rem 2rem; /* Ajuste o padding conforme necessário */
+    height: 80px; /* Aumente a altura da navbar */
+    font-size: 1.2rem; /* Aumente o tamanho da fonte dos itens da navbar */
+  }
+  
+  .navbar-logo {
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: 50px; /* Ajuste o tamanho conforme necessário */
+  }
+  
+  .nav-link {
+    font-size: 1.2rem; /* Aumente o tamanho do texto dos links conforme necessário */
+  }
+  
+  .navbar-toggler-icon {
+    font-size: 1.5rem; /* Aumente o tamanho do ícone do toggler conforme necessário */
+  }
+  
